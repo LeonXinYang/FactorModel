@@ -8,7 +8,7 @@ If available, we also may try to build up our own factor and check their validit
 Due to the running time and space, in this memo model, we may use the 上证50 stocks as our range.
 
 The Whole model includes 3 things.
-1. Select the factor: It needs genius's intuition in finance and investment, so experience and finance is important here
+1. Select the factor: It needs genius's intuition in finance and investment, so experience and finance knowledge is important here
 2. Get the exposure: The data cleaning will be the first step. Then regression could help us to do so.
 3. Predict the return: After we make the prediction on factors, then we could make the prediction on the return.
 
